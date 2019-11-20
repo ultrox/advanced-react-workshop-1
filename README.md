@@ -1,5 +1,7 @@
 # Welcome to Advanced React of Today and Tomorrow!
 
+open in [sandbox](https://codesandbox.io/s/github/ultrox/advanced-react-workshop-1)
+
 Before attending the workshop, please make sure you can run the apps in this repository.
 
 ## Step 1 - Dependencies
